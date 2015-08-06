@@ -1,0 +1,22 @@
+{
+  "name": "grid-layout",
+  "version": "1.0.0",
+  "description": "Parameterized grid layout for CraftML - by doubleshow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calebhsu/grid-layout.git"
+  },
+  "keywords": [
+    "craftml"
+  ],
+  "author": "Tom Yeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebhsu/grid-layout/issues"
+  },
+  "homepage": "https://github.com/calebhsu/grid-layout"
+}
