@@ -1,5 +1,5 @@
 # grid-layout
-Grid layout for CraftML by doubleshow
+Parameterized grid layout for CraftML by doubleshow
 
 ### Usage
 ```html
